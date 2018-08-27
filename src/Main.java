@@ -71,9 +71,4 @@ public class Main {
     public static void downRightAngle(){
         System.out.print('\u251B');
     }
-
-
-
-
-
 }
